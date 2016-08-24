@@ -1,0 +1,3 @@
+defineClass('NavigationController : UINavigationController', [  ], {
+            
+            })
